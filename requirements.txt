@@ -1,0 +1,2 @@
+# Root convenience requirements file pointing to the official backend specification
+-r backend/requirements.txt

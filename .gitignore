@@ -1,0 +1,66 @@
+# ============================================================================
+# CrimeVision AI — Git Ignore Configuration
+# Excludes virtual environments, secrets, caches, build artifacts, and large weights
+# ============================================================================
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Python Virtual Environments & Bytecode
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node.js Dependencies & Build Outputs
+node_modules/
+dist/
+dist-ssr/
+server.js
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime Uploads, Temporary Frames & Ephemeral Sessions
+data/uploads/
+data/temp_frames/
+data/sessions/*.json
+!data/sessions/.gitkeep
+outputs/reports/*.pdf
+!outputs/reports/.gitkeep
+
+# Large Pretrained Model Checkpoints (Download automatically via HuggingFace / scripts)
+models/checkpoints/
+*.pth
+*.pt
+*.onnx
+*.safetensors
+*.bin
+
+# Reference Workflow Attachment (39 MB local workspace reference PDF)
+public/assets/aistudio/
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo

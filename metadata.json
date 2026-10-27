@@ -1,0 +1,6 @@
+{
+  "name": "CrimeVision AI",
+  "description": "Intelligent Multimodal Forensic Analysis Platform integrating image scene reconstruction, multilingual witness audio transcription, 1Hz surveillance video timeline extraction, cross-modal evidence fusion, and PDF forensic reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

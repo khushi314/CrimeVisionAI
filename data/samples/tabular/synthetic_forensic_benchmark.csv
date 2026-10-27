@@ -1,0 +1,6 @@
+case_id,vision_location,vision_objects,audio_location,audio_transcript,expected_consistency,video_weapons,video_caption_hint,expected_video_class,chat_query,expected_time_sec
+BENCH-001,retail store,Human|display case|handbag|necklace,store,Two masked individuals ran out of the retail store carrying a dark handbag and dropped a necklace.,consistent,0,Individual grabs handbag from counter and runs toward exit,SUSPICIOUS RAPID MOVEMENT,What happened at 00:05?,5
+BENCH-002,office,Human|knife|laptop|chair|desk,office,Inside the office suite an open laptop was on the desk and a knife lay beside a fallen person.,consistent,1,Individual holding knife near office desk,POTENTIAL WEAPON / SAFETY ALERT,Check activity at 12 seconds,12
+BENCH-003,office,laptop|desk,parking lot,Witness reported a loud argument in the outdoor parking lot near a sedan.,conflict,0,Employee walking calmly down corridor,NORMAL ACTIVITY,Describe timestamp 01:04,64
+BENCH-004,parking lot,Human|handbag,parking lot,A person walked across the parking lot carrying a handbag toward the exit.,consistent,0,Person walking calmly across lot,NORMAL ACTIVITY,What objects were detected?,-1
+BENCH-005,warehouse,Human|box,bedroom,Noise was heard upstairs inside the residential bedroom.,conflict,0,Subject forced entry through warehouse door,SUSPICIOUS RAPID MOVEMENT,Was anything recorded at 00:09?,9

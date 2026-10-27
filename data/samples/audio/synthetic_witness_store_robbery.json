@@ -1,0 +1,32 @@
+{
+  "case_label": "Synthetic Witness Statement — Retail Store Robbery",
+  "transcript_en": "I was standing across Maple Avenue at 8:14 p.m. when I saw two masked individuals force open the retail store entrance. Inside the store they grabbed items from the glass display case and stuffed them into a dark handbag. While running out toward the side parking lot, one person dropped a gold necklace case near the doorway before both fled in a dark sedan as the alarm sounded.",
+  "segments": [
+    {
+      "start_raw": 0.0,
+      "end_raw": 5.5,
+      "text": "I was standing across Maple Avenue at 8:14 p.m. when two masked individuals forced open the retail store entrance."
+    },
+    {
+      "start_raw": 5.5,
+      "end_raw": 11.5,
+      "text": "Inside the store they grabbed items from the glass display case and stuffed them into a dark handbag."
+    },
+    {
+      "start_raw": 11.5,
+      "end_raw": 16.0,
+      "text": "While running out toward the side parking lot, one person dropped a gold necklace case near the doorway."
+    },
+    {
+      "start_raw": 16.0,
+      "end_raw": 20.0,
+      "text": "Both individuals entered a dark sedan and fled right as the store alarm started ringing."
+    }
+  ],
+  "translations": {
+    "english": "I was standing across Maple Avenue at 8:14 p.m. when I saw two masked individuals force open the retail store entrance. Inside the store they grabbed items from the glass display case and stuffed them into a dark handbag. While running out toward the side parking lot, one person dropped a gold necklace case near the doorway before both fled in a dark sedan as the alarm sounded.",
+    "hindi": "मैं रात 8:14 बजे मेपल एवेन्यू के सामने खड़ा था जब मैंने दो नकाबपोश व्यक्तियों को रिटेल स्टोर का दरवाजा जबरन खोलते देखा। स्टोर के अंदर उन्होंने कांच के डिस्प्ले केस से सामान उठाया और काले हैंडबैग में भर लिया। बगल की पार्किंग की ओर भागते समय एक व्यक्ति के हाथ से दरवाजे के पास सोने के हार का डिब्बा गिर गया और अलार्म बजते ही दोनों एक गहरे रंग की सेडान कार में फरार हो गए।",
+    "telugu": "రాత్రి 8:14 గంటలకు నేను మేపుల్ అవెన్యూ ఎదురుగా నిలబడి ఉన్నప్పుడు ఇద్దరు ముసుగు ధరించిన వ్యక్తులు రిటైల్ స్టోర్ ప్రవేశద్వారాన్ని బలవంతంగా తెరవడం చూశాను. స్టోర్ లోపల గాజు డిస్‌ప్లే కేస్ నుండి వస్తువులను తీసి నల్లటి హ్యాండ్‌బ్యాగ్‌లో నింపారు. పక్కనే ఉన్న పార్కింగ్ స్థలం వైపు పరిగెత్తుతుండగా ద్వారం వద్ద బంగారు నెక్లెస్ బాక్స్ పడిపోయింది మరియు అలారం మోగగానే ఇద్దరూ కారులో పారిపోయారు.",
+    "french": "Je me tenais en face de Maple Avenue à 20h14 lorsque j'ai vu deux individus masqués forcer l'entrée du magasin de détail. À l'intérieur du magasin, ils ont saisi des articles dans la vitrine en verre et les ont mis dans un sac à main sombre. En courant vers le parking latéral, l'un d'eux a fait tomber un écrin de collier près de la porte avant de fuir en berline."
+  }
+}

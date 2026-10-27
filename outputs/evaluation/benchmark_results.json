@@ -1,0 +1,91 @@
+{
+  "benchmark_cases": 5,
+  "cross_modal_consistency_accuracy": 1.0,
+  "video_sequence_classification_accuracy": 1.0,
+  "regex_timestamp_parser_accuracy": 1.0,
+  "sample_pipeline_verification": {
+    "office_image_status": "skipped_unconfigured (Real image analysis requires either local RT-DETR/CLIP PyTorch weights or GEMINI_API_KEY for multimodal AI inference. Predefined/demo detections are disabled.)",
+    "office_image_objects_cataloged": null,
+    "office_image_3d_nodes": null,
+    "image_pipeline_ms": 0.09,
+    "store_audio_languages_verified": [
+      "english",
+      "hindi",
+      "telugu",
+      "french"
+    ],
+    "audio_pipeline_ms": 1.39,
+    "store_video_1hz_frames_extracted": 10,
+    "store_video_duration_sec": 9.0,
+    "video_frame_extraction_ms": 149.81,
+    "pdf_report_size_bytes": 1928,
+    "fusion_and_pdf_ms": 1.21
+  },
+  "case_details": [
+    {
+      "case_id": "BENCH-001",
+      "expected_consistency": "consistent",
+      "predicted_consistency": "consistent",
+      "consistency_score": 1.0,
+      "consistency_pass": true,
+      "expected_video_class": "SUSPICIOUS RAPID MOVEMENT",
+      "predicted_video_class": "SUSPICIOUS RAPID MOVEMENT",
+      "video_class_pass": true,
+      "expected_time_sec": 5,
+      "predicted_time_sec": 5,
+      "regex_time_pass": true
+    },
+    {
+      "case_id": "BENCH-002",
+      "expected_consistency": "consistent",
+      "predicted_consistency": "consistent",
+      "consistency_score": 1.0,
+      "consistency_pass": true,
+      "expected_video_class": "POTENTIAL WEAPON / SAFETY ALERT",
+      "predicted_video_class": "POTENTIAL WEAPON / SAFETY ALERT",
+      "video_class_pass": true,
+      "expected_time_sec": 12,
+      "predicted_time_sec": 12,
+      "regex_time_pass": true
+    },
+    {
+      "case_id": "BENCH-003",
+      "expected_consistency": "conflict",
+      "predicted_consistency": "conflict",
+      "consistency_score": 0.0,
+      "consistency_pass": true,
+      "expected_video_class": "NORMAL ACTIVITY",
+      "predicted_video_class": "NORMAL ACTIVITY",
+      "video_class_pass": true,
+      "expected_time_sec": 64,
+      "predicted_time_sec": 64,
+      "regex_time_pass": true
+    },
+    {
+      "case_id": "BENCH-004",
+      "expected_consistency": "consistent",
+      "predicted_consistency": "consistent",
+      "consistency_score": 1.0,
+      "consistency_pass": true,
+      "expected_video_class": "NORMAL ACTIVITY",
+      "predicted_video_class": "NORMAL ACTIVITY",
+      "video_class_pass": true,
+      "expected_time_sec": -1,
+      "predicted_time_sec": -1,
+      "regex_time_pass": true
+    },
+    {
+      "case_id": "BENCH-005",
+      "expected_consistency": "conflict",
+      "predicted_consistency": "conflict",
+      "consistency_score": 0.0,
+      "consistency_pass": true,
+      "expected_video_class": "SUSPICIOUS RAPID MOVEMENT",
+      "predicted_video_class": "SUSPICIOUS RAPID MOVEMENT",
+      "video_class_pass": true,
+      "expected_time_sec": 9,
+      "predicted_time_sec": 9,
+      "regex_time_pass": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case_label": "Synthetic Witness Statement — Office Disturbance",
+  "transcript_en": "Around 9:30 p.m. on the third-floor office wing I heard a loud crash coming from suite 304. When security unlocked the office door, an overturned chair and an open laptop on the desk were visible, along with a metallic knife lying on the floor beside a fallen person.",
+  "segments": [
+    {
+      "start_raw": 0.0,
+      "end_raw": 5.5,
+      "text": "Around 9:30 p.m. on the third-floor office wing I heard a loud crash coming from suite 304."
+    },
+    {
+      "start_raw": 5.5,
+      "end_raw": 11.0,
+      "text": "When security unlocked the office door, an overturned chair and an open laptop on the desk were visible."
+    },
+    {
+      "start_raw": 11.0,
+      "end_raw": 16.0,
+      "text": "We also noticed a metallic knife lying on the floor beside an unresponsive person and called emergency services."
+    }
+  ],
+  "translations": {
+    "english": "Around 9:30 p.m. on the third-floor office wing I heard a loud crash coming from suite 304. When security unlocked the office door, an overturned chair and an open laptop on the desk were visible, along with a metallic knife lying on the floor beside a fallen person.",
+    "hindi": "रात लगभग 9:30 बजे तीसरी मंजिल के ऑफिस विंग में मैंने सुइट 304 से तेज आवाज सुनी। जब सुरक्षाकर्मी ने ऑफिस का दरवाजा खोला, तो वहां उल्टी पड़ी कुर्सी और मेज पर खुला लैपटॉप दिखाई दिया, साथ ही फर्श पर गिरे व्यक्ति के पास एक धातु का चाकू पड़ा था।",
+    "telugu": "రాత్రి సుమారు 9:30 గంటలకు మూడవ అంతస్తు ఆఫీస్ విభాగంలోని సూట్ 304 నుండి పెద్ద శబ్దం వినిపించింది. సెక్యూరిటీ ఆఫీస్ తలుపు తెరిచినప్పుడు బోల్తా పడిన కుర్చీ, డెస్క్‌పై తెరిచి ఉన్న ల్యాప్‌టాప్ మరియు నేలపై పడి ఉన్న వ్యక్తి పక్కన ఒక కత్తి కనిపించాయి.",
+    "french": "Vers 21h30, dans l'aile des bureaux du troisième étage, j'ai entendu un grand bruit provenant du bureau 304. Lorsque la sécurité a ouvert la porte du bureau, une chaise renversée et un ordinateur portable ouvert sur le bureau étaient visibles, ainsi qu'un couteau métallique au sol."
+  }
+}
