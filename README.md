@@ -1,10 +1,15 @@
 # CrimeVision AI — Intelligent Multimodal Forensic Analysis Platform
 
+<img width="1920" height="982" alt="image" src="https://github.com/user-attachments/assets/de54f149-1efd-4ae5-b65c-e1fe40d328fc" />
+
+
 **CrimeVision AI** is an academic capstone platform for **objective, multimodal forensic scene assistance**. It unifies computer vision scene inspection, interactive Three.js 3D spatial reconstruction, multilingual witness statement transcription (English, Hindi, Telugu, French), 1Hz surveillance CCTV decomposition, cross-modal consistency auditing, session-grounded RAG question answering, and downloadable PDF forensic reports.
 
 > **Scope & Deployment Notice**: This repository is engineered for **local execution, automated testing, reproducible benchmarking, and academic GitHub submission**. No paid cloud hosting or external deployment configuration is required.
 
 ---
+<img width="1920" height="951" alt="audio" src="https://github.com/user-attachments/assets/af9ef35a-dc80-4be9-bf0e-d2af892f1af1" />
+
 
 ## Key Capabilities (Mapped to Official Milestones 1–6)
 
